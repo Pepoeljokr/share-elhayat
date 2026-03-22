@@ -1,46 +1,19 @@
-# Share Elhayat Application Documentation
+# Share Elhayat
 
-## Overview
-Share Elhayat is a comprehensive application designed to manage and share various resources within a community. Its main goal is to facilitate collaboration and communication, enabling users to find and contribute resources effectively.
+## Project Status
+As of March 22, 2026, the project is in active development and is approaching the beta release stage. Testing is ongoing to ensure stability and performance before the final release.
 
-## Key Features
-- **Resource Sharing**: Users can share different types of resources, from documents to physical items.
-- **User Management**: Admins can manage user roles and permissions to ensure a safe sharing environment.
-- **Search Functionality**: Efficient search to find resources quickly.
-- **Notifications**: Users can receive updates about shared resources and community activities.
-- **Mobile Compatibility**: Fully functional on mobile devices for easy access on the go.
+## Features
+- **User Authentication**: Secure sign-up and login processes.
+- **Content Management**: Users can create, edit, and delete content.
+- **Real-time Updates**: Live updates for user interactions.
+- **Responsive Design**: Fully functional on mobile and desktop devices.
+- **Multi-language Support**: Currently supporting English and Arabic, with plans for additional languages.
 
-## Getting Started
-### Installation
-To install the Share Elhayat application, follow these steps:
-1. Clone the repository:
-   ```
-   git clone https://github.com/Pepoeljokr/share-elhayat.git
-   ```
-2. Navigate to the directory:
-   ```
-   cd share-elhayat
-   ```
-3. Install dependencies:
-   ```
-   npm install
-   ```
+## Development Roadmap
+- **Q2 2026**: Complete beta testing and gather user feedback.
+- **Q3 2026**: Implement feedback and prepare for the official release.
+- **Q4 2026**: Launch version 1.0 with additional features based on user requests.
+- **2027**: Explore partnerships for content expansion and enhanced features.
 
-### Usage
-To run the application, use the following command:
-```bash
-npm start
-```
-
-Visit `http://localhost:3000` in your browser to access the application.
-
-## Contributing
-Feel free to contribute to this project by forking the repository and submitting a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For additional questions and support, please reach out to: 
-- **Email**: support@share-elhayat.com
-- **GitHub**: [Pepoeljokr](https://github.com/Pepoeljokr)
+Stay tuned for updates!
